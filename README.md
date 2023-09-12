@@ -1,2 +1,0 @@
-# LuxeQuality
-LuxeQuality test assignment
